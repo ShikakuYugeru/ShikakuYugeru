@@ -3,7 +3,11 @@
  src="https://raw.githubusercontent.com/ShikakuYugeru/ShikakuYugeru/main/tOejsn1.png" width="100%'>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ShikakuYugeru&show_icons=true&theme=tokyonight">
-
+<p align="center">
+  <img src="https://media.tenor.com/.../python.gif" width="50">
+  <img src="https://media.tenor.com/.../java.gif" width="50">
+  <img src="https://media.tenor.com/.../docker.gif" width="50">
+</p>
 <img src="https://streak-stats.demolab.com?user=ShikakuYugeru&theme=tokyonight">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikakuYugeru&layout=compact&theme=tokyonight">
