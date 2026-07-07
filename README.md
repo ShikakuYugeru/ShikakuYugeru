@@ -1,6 +1,6 @@
 <p align="center">
  <img
- src="https://raw.githubusercontent.com/ShikakuYugeru/ShikakuYugeru/main/tOejsn1.png" width="100%'>
+ src="https://raw.githubusercontent.com/ShikakuYugeru/ShikakuYugeru/master/tOejsn1.png" width="100%'>
    </p>
 
 <!--
