@@ -3,6 +3,11 @@
  src="https://raw.githubusercontent.com/ShikakuYugeru/ShikakuYugeru/main/tOejsn1.png" width="100%'>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ShikakuYugeru&show_icons=true&theme=tokyonight">
+
+<img src="https://streak-stats.demolab.com?user=ShikakuYugeru&theme=tokyonight">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikakuYugeru&layout=compact&theme=tokyonight">
+<img src="https://skillicons.dev/icons?i=python,java,linux,git,docker,mysql,vscode,bash">
 <!--
 **ShikakuYugeru/ShikakuYugeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
