@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+ <img
+ src="https://raw.githubusercontent.com/ShikakuYugeru/ShikakuYugeru/main/tOejsn1.png" width="100%'>
+   </p>
 
 <!--
 **ShikakuYugeru/ShikakuYugeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
