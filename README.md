@@ -108,15 +108,21 @@ Atualmente estudo:
 <p align="center">
 <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
 </p>
-
 <!-- Quanxi GIF -->
 
 <p align="center">
-  <img src="./Chainsawman Manga GIF - Chainsawman Manga Quanxi - Temukan & Bagikan GIF" width="100%" />
+  <img
+    src="./Chainsawman%20Manga%20GIF%20-%20Chainsawman%20Manga%20Quanxi%20-%20Temukan%20%26%20Bagikan%20GIF.gif"
+    alt="Quanxi"
+    width="100%"
+  />
 </p>
 
 <!-- Footer -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:ff6b00"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:ff6b00"
+    width="100%"
+  />
 </p>
