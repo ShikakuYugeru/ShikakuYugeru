@@ -103,30 +103,20 @@ Atualmente estudo:
 
 ---
 
+<!-- Snake -->
+
 <p align="center">
-
-**「勉強して理解するまで。」**
-
-*Study until you understand.*
-
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
 </p>
 
----
-
-<div align="center">
-
-<img src="./assets/Chainsawman Manga GIF - Chainsawman Manga Quanxi - Temukan & Bagikan GIF.gif" width="100%" />
-
-<br><br>
-
-### 「挑戦は終わらない。」
-
-*"The challenge never ends."*
-
-</div>
-
-<!-- ===== FOOTER ===== -->
+<!-- Quanxi GIF -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff6b00,100:0d1117"/>
+  <img src="./assets/Chainsawman Manga GIF - Chainsawman Manga Quanxi - Temukan & Bagikan GIF" width="100%" />
+</p>
+
+<!-- Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:ff6b00"/>
 </p>
