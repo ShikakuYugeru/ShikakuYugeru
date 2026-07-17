@@ -111,6 +111,20 @@ Atualmente estudo:
 
 </p>
 
+---
+
+<div align="center">
+
+<img src="./assets/quanxi.gif" width="100%" />
+
+<br><br>
+
+### 「挑戦は終わらない。」
+
+*"The challenge never ends."*
+
+</div>
+
 <!-- ===== FOOTER ===== -->
 
 <p align="center">
