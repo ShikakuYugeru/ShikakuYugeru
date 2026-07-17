@@ -20,7 +20,7 @@
 
 ## 👋 Sobre mim
 
-Meu nome é **Fabio Junior**.
+Meu nome é **Shikaku**.
 
 Sou apaixonado por tecnologia, automação, Linux e análise de dados.
 
