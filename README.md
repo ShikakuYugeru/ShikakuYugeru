@@ -106,7 +106,7 @@ Atualmente estudo:
 <!-- Snake -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+<img src="download (2).jfif">
 </p>
 <!-- Quanxi GIF -->
 
