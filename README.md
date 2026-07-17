@@ -115,7 +115,7 @@ Atualmente estudo:
 
 <div align="center">
 
-<img src="./assets/quanxi.gif" width="100%" />
+<img src="./assets/Chainsawman Manga GIF - Chainsawman Manga Quanxi - Temukan & Bagikan GIF.gif" width="100%" />
 
 <br><br>
 
