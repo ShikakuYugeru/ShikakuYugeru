@@ -7,7 +7,7 @@
 <!-- ===== CUSTOM BANNER (sua imagem do Pinterest) ===== -->
 
 <p align="center">
-  <img width="100%" src="./assets/banner.jpg" alt="Shikaku Banner"/>
+  <img width="100%" src="./assets/banner.jpg" alt="tOejsn1.png"/>
 </p>
 
 <!-- ===== TERMINAL ===== -->
