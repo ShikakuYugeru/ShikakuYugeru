@@ -110,6 +110,12 @@ Atualmente estudo:
 </p>
 <!-- Quanxi GIF -->
 
+<br><br>
+
+### 「挑戦は終わらない。」
+
+*"The challenge never ends."*
+
 <p align="center">
   <img
     src="./Chainsawman%20Manga%20GIF%20-%20Chainsawman%20Manga%20Quanxi%20-%20Temukan%20%26%20Bagikan%20GIF.gif"
